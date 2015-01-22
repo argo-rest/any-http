@@ -52,4 +52,4 @@ interface on top of existing HTTP libraries:
 
 ## See also
 
-- AnyPromise
+- [AnyPromise](https://github.com/argo-rest/any-promise)
