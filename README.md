@@ -42,8 +42,8 @@ Adapters are thin wrapper libraries that implement the AnyHTTP
 interface on top of existing HTTP libraries:
 
 - [reqwest](https://github.com/argo-rest/any-http-reqwest)
-- (to be extracted into its own repo) jQuery
-- (to be extracted into its own repo) AngularJS
+- [jQuery](https://github.com/argo-rest/any-http-jquery)
+- [AngularJS](https://github.com/argo-rest/any-http-angular)
 - (to be extracted into its own repo) request (NodeJS)
 
 ## Known uses
